@@ -85,6 +85,7 @@
 1. 图片采用浏览到此处会放大出现的效果，以此起到强调的作用 [网址链接](https://luojiahao.me/data-space/application-scenarios-of-data-mining/)
 
 ![20190624_125428.gif](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/20190624_125428.gif)
+
 2. 侧边栏采用从右向左滑入，以此起到提醒的作用 [网址链接](https://luojiahao.me/page/)
 
 ![20190624_125901.gif](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/20190624_125901.gif)
@@ -109,8 +110,8 @@
 - 通过数据可知本网站安全系数高，浏览登录记录均为本人，暂无发现恶意攻击本网站的行为。
 
 ![safe.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/safe.png)
-![safe.png](https://note.youdao.com/yws/res/1580/WEBRESOURCEca8014a3397ff1666e3923901c24ed77)
-![safe1.png](https://note.youdao.com/yws/res/1582/WEBRESOURCE38a1a396c5a2cb23a1717be61c9ad7d0)
+![safe.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/safe%20(1).png)
+![safe1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/safe1.png)
 
 
 ---
@@ -118,7 +119,7 @@
 ### 2.3网站性能：使用site24x7
 - 我添加的监控点分别是各大洲的主要城市，以此来看看整体的网站性能，通过数据可知本网站对国内的用户并不是特别友好，需要借助科学上网工具才能获得良好的用户体验，而其它的监测地点均为正常值，能正常访问本网站。
 
-![site2.png](https://note.youdao.com/yws/res/1564/WEBRESOURCE7af7528e622448cc4d37cdd82e39b385)
+![site2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site2.png)
 ![site.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/safe%20(1).png)
 ![site1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site1.png)
 
@@ -263,7 +264,7 @@ bing已成功抓取网站sitemap
 
 - 导航栏——添加了搜索入口
 
-![user1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/user1.png)
+![user1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/user1%20(1).png)
 
 #### 方法二：A/B 测试 [录音文件](https://github.com/LUOJIHAO/web-operation/tree/master/%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6/AB%E6%B5%8B%E8%AF%95)
 - A方案导航栏无图标
