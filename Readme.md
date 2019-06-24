@@ -140,7 +140,7 @@
 # 3.运营
 
 ### 3.1 站长工具：
--  Baidu站长认证
+-  Baidu站长认证——方法：登录百度站长工具，选择通过html的验证方法，将其验证码贴入Yoast SEO，完成验证后提交sitemap
 1. 百度已收录本网站，且为网站最新内容
 ![baidu2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/baidu2.png)
 
@@ -148,7 +148,7 @@
 ![site22222.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site22222.png)
 ![baidu.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/baidu.png)
 
--  Bing站长认证
+-  Bing站长认证——方法：登录Bing站长工具，选择通过html的验证方法，将其验证码贴入Yoast SEO，完成验证后提交sitemap
 1. bing已收录本网站，且国内版、国际版均可搜索到
 ![bing2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/bing2.png)
 
@@ -197,10 +197,10 @@ bing已成功抓取网站sitemap
 数据对比：
 这是Jetpack分别在6月8日和6月24日的截图，在完成了站长认证和SEO的方法优化后，从图中可以看到流量数得到了明显的提升。
 ![站长报告8.jpg](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/站长报告8.jpg)
-![seo.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo.png)
+![seo.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo%20(1).png)
 在Yoast SEO中可以看出目前网站总体的SEO分析是优秀
-![seo2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo2.png)
-![seo1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo1.png)
+![seo2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo2%20(1).png)
+![seo1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo1%20(1).png)
 
 ##### 分析原因
 1. 通过主动提交sitemap以及网页的链接后，网站更容易被搜索引擎收录。
