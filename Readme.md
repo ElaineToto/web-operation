@@ -120,7 +120,7 @@
 - 我添加的监控点分别是各大洲的主要城市，以此来看看整体的网站性能，通过数据可知本网站对国内的用户并不是特别友好，需要借助科学上网工具才能获得良好的用户体验，而其它的监测地点均为正常值，能正常访问本网站。
 
 ![site2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site2.png)
-![site.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/safe%20(1).png)
+![site.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site.png)
 ![site1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site1.png)
 
 
