@@ -189,12 +189,15 @@
 本网站的sitemap地图
 
 ![site3.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site3%20(1).png)
+
 baidu站长工具提交sitemap
 
 ![site4.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site4%20(1).png)
+
 baidu已成功抓取网站sitemap
 
 ![site5.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site5.png)
+
 bing已成功抓取网站sitemap
 
 ![site6.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site6.png)
