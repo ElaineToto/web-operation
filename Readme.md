@@ -94,6 +94,7 @@
 1. 使用Posts Grid的布局风格，用户可以直观的从分类标签中获取所需的文章 [网址链接](https://luojiahao.me/page/)
 
 ![20190624_130738.gif](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/20190624_130738.gif)
+
 2. 使用FooFallery插件，再用自定义html的功能将此插入，制作画廊（在文章结尾处） [网址链接](https://luojiahao.me/data-space/application-scenarios-of-data-mining/)
 
 ![20190624_131017.gif](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/20190624_131017.gif)
@@ -108,6 +109,7 @@
 
 ### 2.2网站安全：使用Wordfence
 - 通过数据可知本网站安全系数高，浏览登录记录均为本人，暂无发现恶意攻击本网站的行为。
+- 同时通过图片数据可知，该防火墙在不断的学习中，提高网站的安全性。
 
 ![safe.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/safe.png)
 ![safe.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/safe%20(1).png)
