@@ -188,10 +188,10 @@
 ##### 方法五：提交网站的sitemap到bing和baidu的站长工具。方法：在Yoast中找到本网站的sitemap，将sitemap提交至bing和baidu站长工具中。
 本网站的sitemap地图
 
-![site3.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site3.png)
+![site3.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site3%20(1).png)
 baidu站长工具提交sitemap
 
-![site4.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site4.png)
+![site4.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site4%20(1).png)
 baidu已成功抓取网站sitemap
 
 ![site5.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site5.png)
