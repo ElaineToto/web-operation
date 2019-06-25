@@ -310,6 +310,22 @@ bing已成功抓取网站sitemap
 结果：安装WP-copyright-protection插件，同时可以定制化需要保护的页面。
 ![1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/1%20(1).png)
 ![10.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/10.png)
+
+#### 定制化方案三：
+原因：在“踩坑问题”页面中因为使用了siteorigin Layout，影响了文本的显示，不符合整个网页的美观度
+
+分析：该插件右边有自定义CSS的功能可以在此处加入CSS代码，更改布局
+
+结果：通过CSS修改了文字布局，使其居中显示，较之前整齐有序
+
+修改CSS前页面布局
+![css.jpg](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/css.jpg)
+
+修改CSS代码
+![css1.jpg](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/css1.jpg)
+
+修改后的文字布局
+![css2.jpg](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/css2.jpg)
 # 加分项
 #### 1. 子网站（开启子域名）：https://6666.luojiahao.me
 ![子网站.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/QQ浏览器截图20190622172246.png)
