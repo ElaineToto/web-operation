@@ -109,7 +109,8 @@
 
 ### 2.2网站安全：使用Wordfence
 - 通过数据可知本网站安全系数高，浏览登录记录均为本人，暂无发现恶意攻击本网站的行为。
-- 同时通过图片数据可知，该防火墙在不断的学习中，提高网站的安全性。
+- 同时通过图片数据可知，该防火墙在不断的学习中，以此提高网站的安全性。
+- 网站的回应为正常值、IP地址稳定（除了有一次用科学上网，IP显示在美国）。
 
 ![safe.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/safe.png)
 ![safe.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/safe%20(1).png)
