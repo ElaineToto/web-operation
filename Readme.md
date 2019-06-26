@@ -62,7 +62,7 @@
 
 ---
 
-### 1.4 3篇云端架站踩坑图文文章：
+### 1.4 云端架站踩坑图文文章：
 - [DigitalOcean搭建WordPress](https://luojiahao.me/site-report/build-wordpress-digitalocean/)
 - [IP地址与域名的绑定](https://luojiahao.me/site-report/ip-address-and-domain-name-binding/)
 - [给你的网站添加SSL/TLS 协议](https://luojiahao.me/site-report/ip-address-and-domain-name-binding/)
