@@ -92,20 +92,24 @@
 
 3. 文章“引言”采用从左到右滑动进入的动画效果 [网址链接](https://luojiahao.me/big-data/big-data-processing-method/)
 
+![Animate4.gif](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/Animate4.gif)
+
 #### Siteorigin
 1. 使用Posts Grid的布局风格，用户可以直观的从分类标签中获取所需的文章 [网址链接](https://luojiahao.me/page/)
 
 ![20190624_130738.gif](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/20190624_130738.gif)
 
-2. 使用FooFallery插件，再用自定义html的功能将此插入，制作画廊（在文章结尾处） [网址链接](https://luojiahao.me/data-space/application-scenarios-of-data-mining/)
+2. 使用FooGallery插件，再用自定义html的功能将此插入，制作画廊（在文章结尾处） [网址链接](https://luojiahao.me/data-space/application-scenarios-of-data-mining/)
 
 ![20190624_131017.gif](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/20190624_131017.gif)
 
-3.使用了Icon List的功能，用户可以点击此按钮直接进入到文章界面[网址链接](https://luojiahao.me/)
+3.使用了Icon List的功能，用户可以点击此按钮直接进入到文章界面 [网址链接](https://luojiahao.me/)
 
 ![20190624_131234.gif](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/20190624_131234.gif)
 
-4.使用了Posts Carousel的功能，将文章轮播展示[网址链接](https://luojiahao.me/problems-on-pit/)
+4.使用了Posts Carousel的功能，将文章轮播展示 页面运用了黄金比例 右侧页面上面用了文字模块，下面运用Icon List模块 [网址链接](https://luojiahao.me/problems-on-pit/)
+
+![Siteorigin.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/Siteorigin.png)
 
 # 2.管理
 ### 2.1云端架站：https://luojiahao.me
