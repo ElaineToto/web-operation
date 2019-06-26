@@ -159,7 +159,7 @@
 ### 3.1 站长工具：
 -  Baidu站长认证——方法：登录百度站长工具，选择通过html的验证方法，将其验证码贴入Yoast SEO，完成验证后提交sitemap
 1. 在未注册百度站长工具前，无法搜索到本网站（5月28日）
-![baidu222.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/baidu222.png)
+![baidu222.jpg](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/baidu222.jpg)
 
 2. 百度已收录本网站，且为网站最新内容（6月26日）
 ![baidu2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/baidu2.png)
@@ -207,7 +207,7 @@
 ![site4.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site4.png)
 
 结果：以《常用的大数据获取》这篇url为例，可以通过搜索引擎直接搜索到，说明改网页已被收录！
-![seo1515.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo1515.png.png)
+![seo1515.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo1515.png)
 
 ##### 方法四（官方方法）： bing站长工具自带的SEO优化建议，这里在首页内容的图片要添加描述文本。<br>
 方法：进入bing后台找到seo优化，之后输入网址，按照提示修改。
