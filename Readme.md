@@ -158,28 +158,39 @@
 
 ### 3.1 站长工具：
 -  Baidu站长认证——方法：登录百度站长工具，选择通过html的验证方法，将其验证码贴入Yoast SEO，完成验证后提交sitemap
-1. 百度已收录本网站，且为网站最新内容
+1. 在未注册百度站长工具前，无法搜索到本网站（5月28日）
+![baidu222.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/baidu222.png)
+
+2. 百度已收录本网站，且为网站最新内容（6月26日）
 ![baidu2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/baidu2.png)
 
-2. 自五月底认证百度站长工具以来索引量以及抓取频次都在稳步提升
+3. 自五月底认证百度站长工具以来和使用相关SEO优化后，“索引量”和“抓取频次”都在稳步提升，可以看出本网站的出现在baidu搜索引擎上的几率在不断增加。
 ![site22222.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site22222.png)
 ![baidu.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/baidu.png)
 
 -  Bing站长认证——方法：登录Bing站长工具，选择通过html的验证方法，将其验证码贴入Yoast SEO，完成验证后提交sitemap
-1. bing已收录本网站，且国内版、国际版均可搜索到
+1. 在未注册bing站长工具前，无法搜索到本网站（5月28日）
+![bing222.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/bing222.jpg)
+
+1. bing已收录本网站，且国内版、国际版均可搜索到（6月26日）
 ![bing2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/bing2.png)
 
-2.自五月底认证bing站长工具以及通过相关的运维后，页面流量、搜索点击数量、抓取页面数量等呈稳步上升趋势
+2.自五月底认证bing站长工具以及使用SEO优化后，“页面流量”、“搜索点击数量”、“搜索结果”、“抓取页面数量”等数值呈稳步上升趋势
 ![bing.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/bing.png)
 ![bing1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/bing1.png)
 
 ---
 
 ### 3.2 SEO优化。
-##### 方法一： 在Yoast里添加文章的关键词同时补充完善描述文本，以此增加搜索引擎的收录机会。添加方法：在每篇文章的最后面会出现Yoast的工具，只需按要求修改即可。
+##### 方法一： 在Yoast里添加文章的关键词同时补充完善描述文本，以此增加搜索引擎的收录机会。<br>
+添加方法：在每篇文章的最后面会出现Yoast的工具，通过总结文章最有价值的关键词，同时利用关键词搜索工具查询该关键词的使用频率确定，最后确定的文章关键词。
 ![seo3.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo3.png)
 
-##### 方法二（官方方法）： 修改文章url的定义规则，使得其更加规范化以便于搜索引擎收录。修改方法：在wordpress后台中找到“设置”在子菜单中找到“固定链接”即可在里面修改整个网站的url的定义，我将其修改为文章分类目录+文章英文名
+结果：以举例的文章为例，文章浏览流量以天为单位统计变化并不明显
+![seo1212.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo1212.png)
+
+##### 方法二（官方方法）： 修改文章url的定义规则，使得其更加规范化以便于搜索引擎收录。<br>
+修改方法：在wordpress后台中找到“设置”在子菜单中找到“固定链接”即可在里面修改整个网站的url的定义，我将其修改为文章分类目录+文章英文名
 
 修改前：
 ![seo1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo1.png)
@@ -187,14 +198,23 @@
 修改后：采用网站主页url+分类目录+文章英文名
 ![seo2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo2.png)
 
-##### 方法三（官方方法）： 在百度站长工具和bing站长工具主动提交文章url。添加方法：登录bing和baidu站长工具网站，找到提交url的位置，将目前网页所有页面的链接都主动提交上去。
+结果：以举例的文章为例，文章浏览流量以天为单位统计变化并不明显
+![seo1212.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo1313.png)
+
+##### 方法三（官方方法）： 在百度站长工具和bing站长工具主动提交文章url。<br>
+添加方法：登录bing和baidu站长工具网站，找到提交url的位置，将目前网页所有页面的链接都主动提交上去。
 ![site3.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site3.png)
 ![site4.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site4.png)
 
-##### 方法四（官方方法）： bing站长工具自带的SEO优化建议，这里在首页内容的图片要添加描述文本。方法：进入bing后台找到seo优化，之后输入网址，按照提示修改。
+结果：以《常用的大数据获取》这篇url为例，可以通过搜索引擎直接搜索到，说明改网页已被收录！
+![seo1515.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo1515.png.png)
+
+##### 方法四（官方方法）： bing站长工具自带的SEO优化建议，这里在首页内容的图片要添加描述文本。<br>
+方法：进入bing后台找到seo优化，之后输入网址，按照提示修改。
 ![seo.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo.png)
 
-##### 方法五：提交网站的sitemap到bing和baidu的站长工具。方法：在Yoast中找到本网站的sitemap，将sitemap提交至bing和baidu站长工具中。
+##### 方法五：提交网站的sitemap到bing和baidu的站长工具。<br>
+方法：在Yoast中找到本网站的sitemap，将sitemap提交至bing和baidu站长工具中。
 本网站的sitemap地图
 
 ![site3.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site3%20(1).png)
@@ -219,6 +239,9 @@ bing已成功抓取网站sitemap
 ![站长报告8.jpg](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/站长报告8.jpg)
 ![seo.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo%20(1).png)
 
+同时登录Jetpack后台数据可以看出，访客的数量在增加
+![wordpress111.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/wordpress111.png)
+
 在Yoast SEO中可以看出目前网站总体的SEO分析是优秀
 ![seo2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo2%20(1).png)
 ![seo1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo1%20(1).png)
@@ -229,6 +252,7 @@ bing已成功抓取网站sitemap
 3. 网页浏览量激增的原因原因在于使用了site24*7的检测工具，但排除这部分流量数据，网页的浏览量和文章的浏览量都有部分提升。
 4. 目前搜索网页关键词还需要在后面加site:luojiahao.me才能搜索出来，原因在于网站总体的点击量，以及关键词的设置还不是尽如人意，同质化较严重，后期运营需加强。
 ![seo4.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo4.png)
+
 ---
 
 ### 3.3 用户研究。
