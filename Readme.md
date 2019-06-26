@@ -130,7 +130,9 @@
 ---
 
 ### 2.3网站性能：使用site24x7
-- 我添加的监控点分别是各大洲的主要城市，以此来看看整体的网站性能，通过数据可知本网站对国内的用户并不是特别友好，需要借助科学上网工具才能获得良好的用户体验，而其它的监测地点均为正常值，能正常访问本网站。
+- 我添加的监控点分别是各大洲的主要城市，以此来看看整体的网站性能，
+- 通过数据可知本网站对国内的用户并不是特别友好，在广州监测点，可用性为10.93%，停机时间为21小时23分钟，需要借助科学上网工具才能获得良好的用户体验，
+- 其它各大洲的监测地点均为正常值，可用性为100%，停机时间为0，能正常访问本网站。
 
 ![site2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site2.png)
 ![site.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/site.png)
@@ -143,9 +145,11 @@
 - 1. winSCP的截图:
 ![backup1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/backup1.png)
 ![backup2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/backup2.png)
+
 - 2. 通过插件(Wordpress Database Backup) 备份数据库  （sql文件）截图 :
 ![backup3.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/backup3.png)
 ![backup4.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/backup4.png)
+
 - 3. 通过wordpress后台导出工具导到本地的文件截图
 ![backup5.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/backup5.png)
 ![backup6.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/backup6.png)
@@ -175,7 +179,7 @@
 ##### 方法一： 在Yoast里添加文章的关键词同时补充完善描述文本，以此增加搜索引擎的收录机会。添加方法：在每篇文章的最后面会出现Yoast的工具，只需按要求修改即可。
 ![seo3.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo3.png)
 
-##### 方法二（官方方法）： 修改文章url的定义规则，使得其更加规范化以便于搜索引擎收录。修改方法：在wordpress后台中找到“设置”在子菜单中找到“链接”即可在里面修改整个网站的url的定义。
+##### 方法二（官方方法）： 修改文章url的定义规则，使得其更加规范化以便于搜索引擎收录。修改方法：在wordpress后台中找到“设置”在子菜单中找到“固定链接”即可在里面修改整个网站的url的定义，我将其修改为文章分类目录+文章英文名
 
 修改前：
 ![seo1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo1.png)
@@ -214,6 +218,7 @@ bing已成功抓取网站sitemap
 这是Jetpack分别在6月8日和6月24日的截图，在完成了站长认证和SEO的方法优化后，从图中可以看到流量数得到了明显的提升。
 ![站长报告8.jpg](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/站长报告8.jpg)
 ![seo.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo%20(1).png)
+
 在Yoast SEO中可以看出目前网站总体的SEO分析是优秀
 ![seo2.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo2%20(1).png)
 ![seo1.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/seo1%20(1).png)
@@ -331,6 +336,7 @@ bing已成功抓取网站sitemap
 
 修改后的文字布局
 ![css2.jpg](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/css2.jpg)
+
 # 加分项
 #### 1. 子网站（开启子域名）：https://6666.luojiahao.me
 ![子网站.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/QQ浏览器截图20190622172246.png)
