@@ -65,7 +65,7 @@
 ### 1.4 云端架站踩坑图文文章：
 - [DigitalOcean搭建WordPress](https://luojiahao.me/site-report/build-wordpress-digitalocean/)
 - [IP地址与域名的绑定](https://luojiahao.me/site-report/ip-address-and-domain-name-binding/)
-- [给你的网站添加SSL/TLS 协议](https://luojiahao.me/site-report/ip-address-and-domain-name-binding/)
+- [给你的网站添加SSL/TLS 协议](https://luojiahao.me/site-report/add-ssl-tls-protocol-to-your-website/)
 - [解决WordPress主页显示Error establishing a database connection](https://luojiahao.me/site-report/solve-error-establishing-a-database-connection/)
 
 ---
@@ -301,7 +301,7 @@ bing已成功抓取网站sitemap
 #### 基于用户访谈改进后的页面布局
 - 首页——添加直接进入文章页面的按钮
 
-![user.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/user.png)
+![user.png](https://raw.githubusercontent.com/LUOJIHAO/web-operation/master/img/user%20(1).png)
 
 - 文章——为每篇文章添加封面图片
 
